@@ -15,11 +15,18 @@ Magic 8 Ball game.
 <img src="https://github.com/cembaykara/MagicBall/blob/master/Screenshot.jpeg?raw=true" width="25%" title="Screenshot">
 </p>
 <li><h6>artest</h3></li>
-Very first AR app that I developed when ARKit was first introduced.<br>
+My second attempt to creating an AR app that I developed when ARKit was first introduced.<br>
 Utilizes ARKit 1.0.<br><br>
-Spawns a 3d cross-section of a place in AR and adds clouds to it using particles.<br>
+Spawns a 3d cross-section of a place in AR and adds clouds to it using particles. 3D scenery is created out of a depth map and an overlay that was aligned and cropped from google maps were used to create this.
+Map overlay is from google maps and the depth map is from Tangrams heightmapper.
 
-Map overlay is from google maps and the depth map is from Tangrams heightmapper (shutdown?).
+<li><h6>terrainAR</h3></li>
+My very first AR apps that I created when ARKit was first introduced.
+Utilizes ARKit 1.0.<br><br>
+Spawns a 3d cross-section of a place in AR.
+3D scenery is created out of a depth map and an overlay that was aligned and cropped from google maps were used to create this.
+Map overlay is from google maps and the depth map is from Tangrams heightmapper.
+
 <li><h6>RunMe -- Ongoing development</h3></li>
 <p align="center">
 <img src="https://github.com/cembaykara/SwiftProjects/blob/master/RunMe/Screenshot.png?raw=true" width="35%" title="Screenshot">
