@@ -42,11 +42,11 @@ Map overlay is from google maps and the depth map is from Tangrams heightmapper.
 <img src="https://github.com/cembaykara/artest/blob/master/screenshot2.gif?raw=true" width="75%" title="Screenshot"><br>
 </p>
 
-* #### [GenericFetcher](https://github.com/cembaykara/GenericFetcher)
+* #### [Pinboard](https://github.com/cembaykara/GenericFetcher)
 
 A simple project to fetch and display remote data.
 
-The app doesn't utilize storyboards. Instead, PureLayout is used to create views.
+The app doesn't utilize storyboards. Instead, PureLayout is used to setup views.
 
 </p>
 <p align="center"><br>
